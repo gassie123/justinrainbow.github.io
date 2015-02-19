@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "justinrainbow",
-    "repositoryName": "justinrainbow.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"justinrainbow","repositoryName":"justinrainbow.github.io","branch":"master"},"site":{"url":"http://justinrainbow.github.io"},"socialnetwork":{"linkedin":"justinrainbow","github":"justinrainbow"},"theme":{"name":"Casper","url":"http://justinrainbow.github.io/themes/Casper"}}
